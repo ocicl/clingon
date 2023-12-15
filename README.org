@@ -4,6 +4,6 @@ Command-line options parser system for Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/dnaeon/clingon.git |
-| commit  | 6d8658a                                   |
+| commit  | 379fc41                                   |
 | systems | clingon                                   |
 |---------+-------------------------------------------|
